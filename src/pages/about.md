@@ -13,4 +13,5 @@ My experience is mainly in building back-end systems, but I have a wide range of
 ---
 
 ### Credits
+
 [Whale icon by Yeong Rong Kim](https://thenounproject.com/icon/whale-1212947/) from [Noun Project](https://thenounproject.com/browse/icons/term/whale/)
