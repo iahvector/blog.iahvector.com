@@ -41,7 +41,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Flickr",
     href: "https://www.flickr.com/photos/iahvector/",
-    linkTitle: `${SITE.title} on Instagram`,
+    linkTitle: `${SITE.title} on Flickr`,
     active: true,
   },
   {
